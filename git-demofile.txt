@@ -3,3 +3,6 @@ This is the demo file for git ....
 
 
 to initialised the git
+
+
+git fetched details
